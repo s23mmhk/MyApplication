@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void buClick(View view) {
         Button b = (Button) findViewById(R.id.button);
-        b.setText("you are clicked me :*");
+        b.setText("you are clicked me :* HAHA");
     }
 }
