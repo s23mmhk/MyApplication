@@ -19,6 +19,13 @@
         android:elevation="0dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:onClick="buClick" />
+        android:onClick="buClick"
+        android:background="@drawable/buttonshape" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="enter your username"
+        android:background="@drawable/edit_text_shape"/>
 
 </RelativeLayout>
